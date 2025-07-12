@@ -54,9 +54,12 @@ Make sure you have [Node.js](https://nodejs.org) installed.
 
 [React JS Tutorial in Hindi – Full Course by ChaiaurCode](https://youtu.be/FxgM9k1rg0Q?t=24272)
 
-## 🙌 Credits
+## 🙌 Special Thanks
 
-Thanks to **@ChaiaurCode** for creating such a helpful and beginner-friendly React tutorial series.
+A heartfelt **thank you to Hitesh Choudhary Sir** for this incredible and in-depth React series.  
+Your contribution to the developer community is truly inspiring.  
+You’ve made learning complex concepts not only easier but genuinely fun and enjoyable.  
+We’re grateful for the clarity, dedication, and passion you bring to teaching.
 
 ## 📌 Notes
 
