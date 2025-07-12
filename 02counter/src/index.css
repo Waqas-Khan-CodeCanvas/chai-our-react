@@ -1,0 +1,18 @@
+:root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: steelblue;
+  color: gold;
+}
+h2{
+  color: white;
+}
+button{
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: lightgreen; 
+  margin: 5px;
+}
