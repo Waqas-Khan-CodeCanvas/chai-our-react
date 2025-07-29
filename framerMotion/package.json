@@ -1,5 +1,5 @@
 {
-  "name": "07reactrouter",
+  "name": "framermotion",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
+    "framer-motion": "^12.23.7",
+    "motion": "^12.23.7",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-router-dom": "^7.6.3",
-    "tailwindcss": "^4.1.11"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",

@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+body{
+  background-color: #111;
+}
+
+/* .box{
+  width: 200px;
+  height: 200px;
+  background-color: crimson;
+  border: 2px solid white;
+}
+.circle{
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  border: 2px solid white;
+  border-radius: 50%;
+} */
